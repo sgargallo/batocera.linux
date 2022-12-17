@@ -130,7 +130,7 @@ do
             touchegg --client&
         fi
 
-        CUSTOMESOPTIONS="$(/usr/bin/batocera-settings-get es.customsargs)"
+        CUSTOMESOPTIONS="$(/usr/bin/batocera-settings-get es.customargs)"
 
         #####################
         ## CUSTOMISATIONS ###
